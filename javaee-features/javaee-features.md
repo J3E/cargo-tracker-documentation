@@ -1,6 +1,6 @@
 ## Java EE Features
 
-This is by no means a comprehensive list of the features used. Please see our http://java.net/jira/browse/CARGOTRACKER[roadmap] for APIs and features we plan to include in the future.
+This is by no means a comprehensive list of the features used. Please see our [roadmap](https://github.com/J3E/cargo-tracker/issues) for APIs and features we plan to include in the future.
 
 | API        | Description      | 
 | ------------- | ------------- |
