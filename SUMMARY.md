@@ -3,5 +3,5 @@
 * [General Info](overview/overview.md)
 * [Getting Started](getting-started/getting-started.md)
 * [Build Instructions](background/background.md)
-* [Release Notes](javaee-ddd/javaee-ddd.md)
-* [Release Notes](javaee-features/javaee-features.md)
+* [Java EE & DDD](javaee-ddd/javaee-ddd.md)
+* [Java EE Features](javaee-features/javaee-features.md)
