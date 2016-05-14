@@ -2,6 +2,7 @@
 
 * [General Info](overview/overview.md)
 * [Getting Started](getting-started/getting-started.md)
+* [Background](background/background.md)
 * [Build Instructions](background/background.md)
 * [Java EE & DDD](javaee-ddd/javaee-ddd.md)
 * [Characterization](characterization/characterization.md)
