@@ -1,7 +1,7 @@
 ## Java EE Features
 
 This is by no means a comprehensive list of the features used. Please see our http://java.net/jira/browse/CARGOTRACKER[roadmap] for APIs and features we plan to include in the future.
-
+| --- | --------- |
 | JSF | Facelets, templates, view parameters, view actions, message bundles, CDI compatible view scope, HTML 5 pass-though attributes, HTML 5 pass-though elements |
 | CDI | Basic injection, scopes, named beans, qualifiers, events, observers, default enablement |
 | EJB | Transactions, stateless session bean, message driven bean, startup singleton, CRON style scheduling, application exceptions, XML deployment descriptors, portable activation configuration |
