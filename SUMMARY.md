@@ -5,4 +5,4 @@
 * [Build Instructions](background/background.md)
 * [Java EE & DDD](javaee-ddd/javaee-ddd.md)
 * [Java EE Features](javaee-features/javaee-features.md)
-* [Resources] (resources/resources.md)
+* [Resources](resources/resources.md)
